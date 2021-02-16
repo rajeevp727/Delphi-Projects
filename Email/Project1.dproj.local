@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.838,E:\Softwares\Delphi 10.3.3\Delphi projects\Unit1.pas=E:\Softwares\Delphi 10.3.3\Delphi projects\Email\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.090,=E:\Softwares\Delphi 10.3.3\Delphi projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.838,E:\Softwares\Delphi 10.3.3\Delphi projects\Unit1.dfm=E:\Softwares\Delphi 10.3.3\Delphi projects\Email\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.828,E:\Softwares\Delphi 10.3.3\Delphi projects\Project1.dproj=E:\Softwares\Delphi 10.3.3\Delphi projects\Email\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.513,=E:\Softwares\Delphi 10.3.3\Delphi projects\Email\Win32\Debug\EASendMailObjLib_TLB.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.952,=E:\Softwares\Delphi 10.3.3\Delphi projects\Email\Unit2.pas</Transaction>
+  </Transactions>
+</BorlandProject>

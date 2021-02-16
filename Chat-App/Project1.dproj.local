@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.931,E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\unit4.dfm=E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\SlpashScreen.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.993,E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\SlpashScreen.dfm=E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\Unit4.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.677,=E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.931,E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\unit4.pas=E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\SlpashScreen.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.394,E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\Project1.dproj=E:\Softwares\Delphi 10.3.3\Delphi projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.467,=E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.817,=E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.624,E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\Unit1.dfm=E:\Softwares\Delphi 10.3.3\Delphi projects\Unit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.624,E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\Unit1.pas=E:\Softwares\Delphi 10.3.3\Delphi projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.804,=E:\Softwares\Delphi 10.3.3\Delphi projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.993,E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\SlpashScreen.pas=E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\Unit4.pas</Transaction>
+    <Transaction>2020-04-01 17:24:18.288,=E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\Unit5.pas</Transaction>
+    <Transaction>2020-04-01 17:26:25.783,=E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\Unit6.pas</Transaction>
+    <Transaction>2020-04-01 17:26:31.837,E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\Unit5.pas=</Transaction>
+    <Transaction>2020-04-01 17:27:05.977,E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\Unit5.pas=E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\Unit6.pas</Transaction>
+    <Transaction>2020-04-01 17:27:05.977,E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\Unit5.dfm=E:\Softwares\Delphi 10.3.3\Delphi projects\Chat App\Unit6.dfm</Transaction>
+  </Transactions>
+</BorlandProject>
